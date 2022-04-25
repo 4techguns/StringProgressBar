@@ -4,7 +4,7 @@ using StringProgressBar;
 namespace StringProgressBar.Tests
 {
     [TestClass]
-    public class ProgressTests
+    public class FilledProgressTests
     {
         [TestMethod]
         public void FilledHalfTest()
