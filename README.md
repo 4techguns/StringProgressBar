@@ -1,6 +1,8 @@
 # StringProgressBar
 A port of https://github.com/Sparker-99/string-progressbar to .NET
 
+Installation: Install the StringProgressBar NuGet package
+
 Usage:
 ```cs
 using StringProgressBar;
